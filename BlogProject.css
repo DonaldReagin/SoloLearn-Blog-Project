@@ -1,0 +1,23 @@
+html {
+    margin: 0px;
+    padding: 0px
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+#NamePlate {
+    text-align: center;
+    border: dashed black;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: purple;
+}
+
+p {
+    text-align: center;
+    color:purple;
+}
